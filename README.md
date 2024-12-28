@@ -3,7 +3,7 @@
 脚本由[7aGiven](https://github.com/7aGiven)的[OrzmicNotes](https://github.com/7aGiven/OrzmicNotes) 改进而来<br>
 
 # 安装库
-使用到的库有[UnityPy](https://github.com/K0lb3/UnityPy)与[pycryptodome](https://github.com/Legrandin/pycryptodome)<br>
+使用到的库有[UnityPy](https://github.com/K0lb3/UnityPy)与[PyCryptodome](https://github.com/Legrandin/pycryptodome)<br>
 使用下面的命令进行安装
 <pre><code>pip install unitypy pycryptodome</code></pre>
 
